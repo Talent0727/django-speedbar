@@ -15,7 +15,6 @@ It is designed to be run on live sites, with minimal performance impact.
 Although all requests are monitored, results are only visible for users
 with the staff flag.
 
-
 Installation
 ============
 
